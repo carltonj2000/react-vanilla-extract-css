@@ -13,4 +13,5 @@ npm i
 npm run start
 npm install @vanilla-extract/css @vanilla-extract/babel-plugin @vanilla-extract/webpack-plugin
 # edit package.json, webpack.config.js
+npm install @vanilla-extract/sprinkles
 ```
